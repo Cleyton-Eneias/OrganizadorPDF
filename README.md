@@ -1,2 +1,2 @@
-# OrganizadorPDF
-Este script Python, chamado "OrganizadorPDF", é uma ferramenta que automatiza a organização de arquivos PDF em um diretório específico.
+### OrganizadorPDF
+Este script Python, chamado "OrganizadorPDF", é uma ferramenta que automatiza a organização de arquivos PDF em um diretório específico. Ao executar o script, ele solicitará ao usuário que insira o caminho do diretório onde os arquivos PDF estão localizados. Em seguida, ele verificará todos os arquivos nesse diretório e moverá cada arquivo PDF para uma pasta separada, com o mesmo nome do arquivo (sem a extensão '.pdf'). Se a pasta correspondente ao arquivo PDF ainda não existir, o script criará uma nova pasta para esse arquivo. Essa ferramenta é útil para quem precisa organizar grandes volumes de arquivos PDF de maneira eficiente e automatizada.
